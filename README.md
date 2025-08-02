@@ -27,7 +27,6 @@ Com o intuito de ser inaugurada no Brasil, por mim, em um futuro distante, se De
 ## 🧩 Funcionalidades Extras
 
 - #### 🎧 Audiolivros
-  - Audiolivros de livros que estimulam a virtude
 
 - #### 🛒 Venda de suplementos
 
