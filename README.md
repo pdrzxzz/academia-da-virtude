@@ -62,7 +62,6 @@ Com o intuito de ser inaugurada no Brasil, por mim, em um futuro distante, se De
   - Coleta de livros em boa qualidade para repasse/venda futura
 
 - #### 🌟 Atrações
-  - Eu, como exemplo.
   - Palestras e rodas de discussão sobre diversos temas ministradas por mim ou por algum instrutor. (Aberto ao público ou exclusivo para alunos)
   - Palestras por pessoas convidadas (David Goggins, Rafael Gratta, Muzy, etc...)
   - Sessões de meditação/respiração guiada.
